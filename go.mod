@@ -1,3 +1,3 @@
-module github.com/YOUR_GITHUB_USERNAME/mini-docker
+module github.com/Meghana/mini-docker
 
 go 1.22.3
