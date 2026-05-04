@@ -1,0 +1,10 @@
+# Compiled binary
+mydocker
+*.exe
+
+# Go build cache
+/vendor/
+
+# OS files
+.DS_Store
+*.swp
