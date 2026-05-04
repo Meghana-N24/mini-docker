@@ -8,3 +8,4 @@ mydocker
 # OS files
 .DS_Store
 *.swp
+rootfs/
